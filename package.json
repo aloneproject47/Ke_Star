@@ -109,7 +109,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node rahmani.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
