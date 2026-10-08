@@ -1,8 +1,8 @@
 {
-  "name":"RAHMANI-XMD",
-  "description":"Best whatsapp bot💛 developed by Rahmany 🌠",
+  "name":"KE_STAR-MD",
+  "description":"Best whatsapp bot💛 developed by ZEZETECH",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/aktbgo.jpg",
+  "logo":"https://files.catbox.moe/sez5vx.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -63,12 +63,12 @@
     },
     "BOT_NAME":{
       "description":"put A name for your bot",
-      "value":"RAHMANI-XMD",
+      "value":"KE_STAR MD",
       "required":false
     },
     "BOT_MENU_LINKS":{
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/aktbgo.jpg",
+      "value":"https://files.catbox.moe/sez5vx.jpg",
       "required":false
     },
     "PUBLIC_MODE":
@@ -102,7 +102,7 @@
     {
       "desc":"Your number , dont put '+' and put you area code(exemple of kenya '254')",
       "required":true,
-      "value":"255693629079"
+      "value":"255690126564"
     },
     "WARN_COUNT":
     {
